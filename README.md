@@ -14,16 +14,15 @@ Olá! , sou um admirador da programação, da inovação, da área de TI, da tec
 
 Atualmente faço o curso de Análise e Desenvolvimento de Sistemas (ADS), no IFPE Campus Paulista.
 
-- 🔭 Atualmente estou no 1o período de ADS
+- 🔭 Estou no 1o período de ADS
 - 🌱 Atualmente estou aprendendo Lógica de Programação e Javascript
 - 📫 Contate-me no email: caiocesarsts@gmail.com
   
 # Conecte-se comigo
 
- * [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/caiocesarsts)
  * [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/caio-cesar-aa935425a/)
  * [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=00000)](https://www.github.com/CaioCesarMDS)
- * <a href="mailto:caiocesarsts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ * <a href="mailto:caiocesarsts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=000" target="_blank"></a>
 
 
 # Linguagens e Tecnologias
