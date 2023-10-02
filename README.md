@@ -23,6 +23,8 @@ Atualmente faço o curso de Análise e Desenvolvimento de Sistemas (ADS), no IFP
  * [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/caiocesarsts)
  * [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/caio-cesar-aa935425a/)
  * [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=00000)](https://www.github.com/CaioCesarMDS)
+ * <a href="mailto:caiocesarsts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 
 # Linguagens e Tecnologias
 
@@ -42,10 +44,13 @@ Atualmente faço o curso de Análise e Desenvolvimento de Sistemas (ADS), no IFP
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CaioCesarMDS&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![Snake animation](https://github.com/CaioCesarMDS/CaioCesarMDS/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=CaioCesarMDSv&repo=CaioCesarMDS&theme=react)](https://github.com/CaioCesarMDS/CaioCesarMDS)
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
+<div align="center">
 
 
 
