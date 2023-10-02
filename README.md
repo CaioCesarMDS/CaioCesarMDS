@@ -22,7 +22,7 @@ Atualmente faço o curso de Análise e Desenvolvimento de Sistemas (ADS), no IFP
 
  * [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/caio-cesar-aa935425a/)
  * [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=00000)](https://www.github.com/CaioCesarMDS)
- * <a href="mailto:caiocesarsts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=000" target="_blank"></a>
+ * [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=Gmail&logoColor=00000)](mailto:caiocesarsts@gmail.com)
 
 
 # Linguagens e Tecnologias
