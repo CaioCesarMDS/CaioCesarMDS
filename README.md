@@ -36,12 +36,12 @@ Atualmente faço o curso de Análise e Desenvolvimento de Sistemas (ADS), no IFP
 
 # Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioCesarMDS&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CaioCesarMDS&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_count=6)
-
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CaioCesarMDS&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioCesarMDS&show_icons=true&theme=dracula&layout=compact&langs_count=8&card_width=370&"/>
+</a>
 
 
 
