@@ -38,7 +38,10 @@ Atualmente faço o curso de Análise e Desenvolvimento de Sistemas (ADS), no IFP
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioCesarMDS&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CaioCesarMDS&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CaioCesarMDS&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF_count=6)
+
+
+
 
 
 
