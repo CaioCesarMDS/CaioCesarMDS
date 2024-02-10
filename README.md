@@ -30,8 +30,18 @@ Atualmente faço o curso de Análise e Desenvolvimento de Sistemas (ADS), no IFP
  * ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
  ### Tecnologias
- * ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![SASS](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=pink)
+
+ * ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![SASS](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=pink) ![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=purple) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwind-css&logoColor=cyan)
+ * ![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=green) ![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  * ![GITHUB](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github) ![GIT](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
+ * ![Figma](https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma&logoColor=orange) ![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=Canva&logoColor=cyan)
+ * ![Postgres](https://img.shields.io/badge/postgres-000?style=for-the-badge&logo=postgresql&logoColor=blue) ![SQLite](https://img.shields.io/badge/sqlite-000?style=for-the-badge&logo=sqlite&logoColor=lightblue) ![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=white)
+ * ![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=Prisma&logoColor=blue) ![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker&logoColor=whiteblue)
+
+
+
+
+
 
 
 # Status
