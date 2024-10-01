@@ -15,7 +15,7 @@ Olá! , sou um admirador da programação, da inovação, da área de TI, da tec
 Atualmente faço o curso de Análise e Desenvolvimento de Sistemas (ADS), no IFPE Campus Paulista.
 
 - 🌱 Atualmente estou aprendendo Javascript.
-- 📫 Contate-me no email: caiocesarsts@gmail.com
+- 📫 Contate-me também no meu [Portifólio](https://portifolio-qu7k.onrender.com/).
   
 # Conecte-se comigo
 
