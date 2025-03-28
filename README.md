@@ -52,7 +52,7 @@ Atualmente faço o curso de Análise e Desenvolvimento de Sistemas (ADS), no IFP
 <br>
 <br>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioCesarMDS&show_icons=true&theme=dracula&layout=compact&langs_count=8&card_width=396&"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioCesarMDS&show_icons=true&theme=dracula&layout=compact&langs_count=6&card_width=396&"/>
 </a>
 
 
