@@ -31,7 +31,7 @@ Atualmente faço o curso de Análise e Desenvolvimento de Sistemas (ADS), no IFP
 
  ### Tecnologias
 
- * ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![SASS](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=pink) ![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=purple) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwind-css&logoColor=cyan)
+ * ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwind-css&logoColor=cyan)
  * ![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=green) ![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  * ![GITHUB](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github) ![GIT](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
  * ![Figma](https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma&logoColor=orange) ![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=Canva&logoColor=cyan)
