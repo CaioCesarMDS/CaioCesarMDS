@@ -27,7 +27,7 @@ Atualmente faço o curso de Análise e Desenvolvimento de Sistemas (ADS), no IFP
 # Linguagens e Tecnologias
 
 ### Linguagens de Programação
- * ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript&logoColor=blue)
+ * ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=red) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript&logoColor=blue)
 
  ### Tecnologias
 
