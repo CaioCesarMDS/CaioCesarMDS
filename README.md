@@ -10,11 +10,12 @@
 
 ### 🚀 Sobre mim
 
-Olá! , sou um admirador da programação, da inovação, da área de TI, da tecnologia no geral. Meu objetivo é aprender e sempre melhorar, para que eu possa contribuir com a propagação da tecnologia em todos os âmbitos.
+Entusiasta de programação e tecnologia. Foco em aprendizado contínuo e desenvolvimento prático de habilidades na área de TI. Busco evolução constante para atuar com eficiência em projetos e ambientes tecnológicos.
 
-Atualmente faço o curso de Análise e Desenvolvimento de Sistemas (ADS), no IFPE Campus Paulista.
 
-- 🌱 Atualmente estou aprendendo Javascript.
+Atualmente curso Análise e Desenvolvimento de Sistemas (ADS).
+
+- 🌱 Atualmente estou estudando Typescript.
 - 📫 Contate-me também no meu [Portifólio](https://portifolio-qu7k.onrender.com/).
   
 # Conecte-se comigo
