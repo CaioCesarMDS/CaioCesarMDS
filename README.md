@@ -15,8 +15,7 @@ Entusiasta de programação e tecnologia. Foco em aprendizado contínuo e desenv
 
 Atualmente curso Análise e Desenvolvimento de Sistemas (ADS).
 
-- 🌱 Atualmente estou estudando Typescript.
-- 📫 Contate-me também no meu [Portifólio](https://portifolio-qu7k.onrender.com/).
+- 📫 Contate-me no meu [Portifólio](https://portifolio-qu7k.onrender.com/).
   
 # Conecte-se comigo
 
